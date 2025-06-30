@@ -11,7 +11,7 @@ Although I haven't had any official work experience yet, I'm actively working on
 - **Learning**: Tailwind CSS, API integration, performance optimization
 
 ### 📚 Education
-I'm studying **Computer Engineering**, with a focus on web technologies and software development. I enjoy combining theory with practice through hands-on projects.
+I'm studying **Computer Engineering**, and I'm focusing on web technologies and software development. I enjoy combining theory with practice through hands-on projects.
 
 ### 🎯 Goals
 - Land my first internship in a collaborative and learning-focused environment  
