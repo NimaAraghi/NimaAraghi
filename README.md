@@ -1,31 +1,56 @@
-## 👋 Hi, I'm Nima Araghi
+# Nima Araghi
 
-I'm a **Computer Engineering student** with a strong interest in **Frontend Development**. Currently learning and building with **React**, **Next.js**, **JavaScript**, and **TypeScript**. I'm passionate about creating clean, responsive, and user-friendly web interfaces.
+<p>
+  A frontend developer in training, passionate about building clean and interactive web interfaces with React and Next.js.
+</p>
 
-Although I haven't had any official work experience yet, I'm actively working on personal projects to sharpen my skills and prepare myself for real-world development. I'm currently looking for a **Frontend Internship** where I can learn from experienced developers, contribute to real projects, and grow professionally.
-
-### 🧰 Tech Stack
-- **Languages**: JavaScript, TypeScript
-- **Frameworks/Libraries**: React, Next.js
-- **Tools**: Git, VS Code, npm, Vite
-- **Learning**: Tailwind CSS, API integration, performance optimization
-
-### 📚 Education
-I'm studying **Computer Engineering**, and I'm focusing on web technologies and software development. I enjoy combining theory with practice through hands-on projects.
-
-### 🎯 Goals
-- Land my first internship in a collaborative and learning-focused environment  
-- Improve my TypeScript skills and dive deeper into Next.js  
-- Explore backend fundamentals and become a **full-stack developer**
-
-### 🌐 Languages
-- English: Intermediate (reading technical docs, writing code comments, communicating with teams)
-
-### 📫 How to Reach Me
-- Email: nima.araghi.dev[at]gmail.com *(replace [at] with @)*  
-- LinkedIn: [linkedin.com/in/nimaaraghi](https://linkedin.com/in/nimaaraghi) *(optional, if you have one)*  
-- Portfolio: (coming soon...)
+<div>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+</div>
 
 ---
 
-Thanks for visiting my profile! Feel free to check out my projects and get in touch if you’re open to mentoring or offering internship opportunities 🙌
+## 🛠 Tools I Use
+
+<div>
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</div>
+
+---
+
+## 🌱 Currently Learning
+- Tailwind CSS
+- Markdown editors & blog UIs
+- How to make great UI/UX decisions
+- PostgreSQL & backend fundamentals
+
+---
+
+## 💡 Goals
+- Land a frontend internship
+- Collaborate on open-source projects
+- Become a full-stack developer
+
+---
+
+## 📫 Contact
+
+Feel free to reach out!
+
+<div>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</div>
+
+---
+
+<!--
+Badges from: https://github.com/alexandresanlim/Badges4-README.md-Profile
+-->
