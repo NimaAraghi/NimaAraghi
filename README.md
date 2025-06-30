@@ -26,8 +26,7 @@
 ---
 
 ## 🌱 Currently Learning
-- Tailwind CSS
-- Markdown editors & blog UIs
+- Tailwind CSS & Shadcn UI
 - How to make great UI/UX decisions
 - PostgreSQL & backend fundamentals
 
@@ -44,9 +43,11 @@
 Feel free to reach out!
 
 <div>
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://github.com/NimaAraghi"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nima-araghi-065322372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <span>nimaaraghi.1384@gmail.com</span>
+  
 </div>
 
 ---
